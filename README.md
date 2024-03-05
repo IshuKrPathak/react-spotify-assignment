@@ -147,6 +147,7 @@ Now, if you try to click on Login with Spotify on your app in the browser, you w
 
 
 
+🔴 Note :- If there is any problem in deployed link i.e. not working . Then run the project locally. It works fine. 🔴
 
 
 
@@ -156,68 +157,3 @@ Now, if you try to click on Login with Spotify on your app in the browser, you w
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
