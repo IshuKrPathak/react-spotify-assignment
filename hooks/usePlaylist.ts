@@ -1,5 +1,5 @@
 import { useAppSelector } from "hooks";
-import { useEffect, useState } from "react";
+import { ReactNode, useEffect, useState } from "react";
 import spotify from "spotify";
 
 interface Artist {
