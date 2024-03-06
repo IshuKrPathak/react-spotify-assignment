@@ -59,7 +59,7 @@ The Tech stack for this project include Next.JS , Material UI , Spotify Api , Re
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
+- [Live video Link](https://youtu.be/Fz7cFLwk_Yo?si=vbfw41p3B4FX-Grd)
 
 - [Live Demo Link](https://react-spotify-assignment.vercel.app/)
 
