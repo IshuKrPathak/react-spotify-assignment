@@ -6,7 +6,32 @@
   <h3><b> Spotify Assignmnet ( F-DEV ) </b></h3>
 </div>
 
+#📸 
+![Screenshot 2024-03-02 133020](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/925d396f-9aeb-4977-b12d-2e9a1c86af79)
+
 #📸 Snaps
+
+
+![Screenshot 2024-03-06 110034](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/cc17c6a7-6b00-4de8-bcba-d165063fa38c)
+
+![Screenshot 2024-03-06 110053](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/ba993726-df84-4888-a1fb-ab65cc0441a8)
+
+![Screenshot 2024-03-06 110109](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/8fd8c130-585b-4a10-a846-16c8875a7027)
+
+![Screenshot 2024-03-06 110127](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/d0f12d6e-f4af-44c4-9934-c1fb87d8e5bb)
+
+![Screenshot 2024-03-06 110138](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/86f6f272-e450-450e-aef2-b1b6c22cd278)
+
+![Screenshot 2024-03-06 110148](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/468fedde-8b7c-4b97-9469-9062b01158d1)
+
+
+![Screenshot 2024-03-06 110203](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/2db05a62-9e4a-4d72-a68b-7d73d5b30ee1)
+
+![Screenshot 2024-03-06 110221](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/a304b72f-486a-497a-8ab6-c9a430ee5cdc)
+
+![Screenshot 2024-03-06 110239](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/a3b6e486-1edb-41e5-8560-f51261af78b4)
+
+![Screenshot 2024-03-06 110300](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/f734f63c-eb39-450b-8a4e-05e49b8e9437)
 
 
 
