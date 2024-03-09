@@ -33,9 +33,6 @@
 
 ![Screenshot 2024-03-06 110300](https://github.com/IshuKrPathak/react-spotify-assignment/assets/77011944/f734f63c-eb39-450b-8a4e-05e49b8e9437)
 
-
-
-
 Spotify is a music player used by millions of users worldwide. Spotify’s Developer API has been made free to use and experiment by the company.
 
 
@@ -51,7 +48,7 @@ The Tech stack for this project include Next.JS , Material UI , Spotify Api , Re
 2. Popularity - None, Low, Medium, High(You can decide the threshold)
 3. Search bar - To search a track by artist name.
 4. Show both Grid and List view and give the option to choose between the two.
-5. Add client-side pagination
+5. Client-side pagination
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
